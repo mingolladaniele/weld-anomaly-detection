@@ -1,8 +1,6 @@
 # Welding Anomaly Detection Project
 
-## Introduction
-
-### Problem Statement
+## Problem Statement
 
 The problem addressed in this project, presented by the Research Center of a leading automotive company, focuses on identifying anomalies within the welding process curves generated during the manufacturing of automobile chassis. The objective is to enhance production efficiency and reduce welding process anomalies. This was achieved through the application of unsupervised Machine Learning algorithms and descriptive and inferential statistical analysis tools.
 
@@ -30,7 +28,9 @@ Two anomaly detection algorithms were employed:
 
 - **Confidence Interval:** A technique using confidence intervals to identify anomalies.
 
-## Results and Recommendations
+![results](assets/results_anomaly_det_model.png)
+
+## Results
 
 The implementation of the advanced welding process monitoring and optimization model has led to significant improvements in the company's operations and overall performance:
 
